@@ -1,0 +1,123 @@
+/* Navbar */
+
+.navbar{
+    border-bottom: 4px solid rgb(192, 186, 186);
+    
+}
+.navleft{
+    margin-left: -40px;
+}
+.navright{
+    margin-right: -60px;
+}
+
+/* Home */
+
+.home{
+    /* background-color: khaki; */
+    width: 100%;
+    height: 450px;
+    
+    
+}
+.homeleft{
+    padding-top: 110px; 
+    padding-left: 83px;
+    float: left;
+    width: 40%;
+}
+.homeright{
+    float: right;
+    width:50%;
+}
+.homeright img{
+    height: 370px;
+    width: 300px;
+    border-radius: 40px;
+    margin-top: 50px;
+    margin-left: 140px;
+}
+
+.home h4{
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    font-size: 27px;
+}
+
+/* Explore */
+
+.program{
+    /* background-color: brown; */
+    color: white;
+    height: 580px;
+    width: 100%;
+}
+
+.program h4{
+    text-align: center;
+    color: green;
+    padding-top: 85px;
+}
+
+.service{
+    
+    width: 30%;
+    float: right;
+    margin-right: 2%;
+    text-align: center;
+    padding-top: -40px;
+}
+.Servicess{
+    margin-top: -30px;
+}
+.sevice IoPricetagOutline{
+    font-size: 30px;
+}
+.service p{
+    color: black;
+}
+.see{
+    color: green;
+}
+
+
+/* Expert */
+
+.expert{
+    background-color: khaki;
+    width: 100%;
+    height: 600px;
+}
+
+.expertleft{
+   float: left;
+   width: 30%;
+   margin-top: 200px;
+   margin-left: 100px;
+}
+
+.expertright{
+     float: right;
+     width: 60%;
+}
+.good{
+    background-color: green;
+    border-radius: 15px;
+    width: 220px;
+    height: 230px;
+    padding: 25px;
+    color: white;   
+}
+.bussiness{
+    background-color: white;
+    border-radius: 15px;
+    width: 220px;
+    height: 230px;
+    padding: 25px;
+    color: black;
+
+}
+.TbBooks{
+  font-optical-sizing: 10px;
+}
+
